@@ -1,7 +1,29 @@
-# Ink Drop Theme
+<div style="text-align:center;">
+  <h1 style="color: #948ae3;">Ink Drop Theme</h1>
+</div>
 
-![JavaScript]("/assets/images/js-view.png");
-![Php]("/assets/images/php-view.png");
+<div style="text-align:center"> 
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
+</div>
+
+<div style="text-align:center;">
+  <p style="color:#948ae3;">
+    Dark color scheme for Vs Code editor. <br>
+    <span>Inspired by NLKNguyen's PaperColor theme. Improved for Vs Code functionality and readability!</span>
+  </p>
+</div>
+
+<div>
+  <h4>JavaScript</h4>  
+  <img src="/assets/images/js-view.png" />
+</div>
+
+<div>
+  <h4>Php</h4>  
+  <img src="/assets/images/php-view.png" />
+</div>
+
+<div align="center">
 
 | Dark Theme Colors                                                    | Hex Codes |
 | -------------------------------------------------------------------- | --------- |
@@ -23,3 +45,5 @@
 | ![#cd9731](https://via.placeholder.com/150x75/cd9731/000000?text=+)  | #cd9731;  |
 | ![#f44747](https://via.placeholder.com/150x75/f44747/000000?text=+)  | #f44747;  |
 | ![#b267e6](https://via.placeholder.com/150x75/b267e6/000000?text=+)  | #b267e6;  |
+
+</div>
