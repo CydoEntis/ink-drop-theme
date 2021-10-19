@@ -380,26 +380,26 @@
 				"comment text"
 			],
 			"settings": {
-				"foreground": "#5c5757",
+				"foreground": "#574169",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "comment storage.type",
 			"settings": {
-				"foreground": "#5c5757"
+				"foreground": "#574169"
 			}
 		},
 		{
 			"scope": "comment entity.name.type",
 			"settings": {
-				"foreground": "#5c5757"
+				"foreground": "#574169"
 			}
 		},
 		{
 			"scope": ["comment variable", "comment variable.other"],
 			"settings": {
-				"foreground": "#5c5757"
+				"foreground": "#574169"
 			}
 		},
 		{
