@@ -1,0 +1,39 @@
+{
+	"name": "ink-drop",
+	"displayName": "Ink Drop",
+	"description": "A VS Code dark theme inspired by the paper color Vim theme.",
+	"version": "1.0.0",
+	"publisher": "Cydo",
+	"license": "MIT",
+	"author": {
+		"name": "Cydo Entis"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"GitHub Theme",
+		"Night Theme",
+		"VS Code Theme"
+	],
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ink Drop",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ink-drop-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"publisherDisplayName": "Cydo Entis"
+	}
+}
