@@ -30,8 +30,9 @@
 		]
 	},
 	"__metadata": {
-		"publisherDisplayName": "Cydo",
 		"id": "e40d2ad5-9434-4542-b453-2afdfa09f8d0",
-		"publisherId": "c9d2c0e7-7fa2-4a7b-bd35-16db07b3dbf0"
+		"publisherId": "c9d2c0e7-7fa2-4a7b-bd35-16db07b3dbf0",
+		"publisherDisplayName": "Cydo",
+		"installedTimestamp": 1634764638828
 	}
 }
